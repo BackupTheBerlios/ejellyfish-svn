@@ -1,0 +1,23 @@
+dscapture 0.1
+
+dscapture is library that provides easy to use interface to webcams.
+
+Requirements:
+- Visual Studio or MinGW. Cygwin might work also.
+- Webcam
+
+Development:
+- Vidual Studio
+- Platform SDK or other where is the DirectShow systems available
+
+TODO:
+- Make this to threath safe
+- Use of multiple videosources if possible
+- There is some performance issues
+  - I think it is possible to make everything with less cpu
+- Support for TV-cards
+- Support for Video4Windows. Even it is old.
+- To find out is it possible to change VisualStudio to MinGW.
+- To find out is it possible to use WDM-drivers straight or something like that
+
+Help needed!!
